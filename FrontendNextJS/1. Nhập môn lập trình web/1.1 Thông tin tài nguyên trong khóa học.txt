@@ -1,0 +1,10 @@
+Thông tin tài nguyên trong khóa học 
+Cập nhật tháng 6 năm 2023
+
+#Tài nguyên chung
+#Tài nguyên của lớp K3
+#Tài nguyên chung
+Tài liệu: https://drive.google.com/drive/folders/1q9kRIrePULZnvUaKv7QT8XsKummb1e20?usp=sharing
+
+#Tài nguyên của lớp K3
+1. Github: https://github.com/hoanganf8/frontend_nextjs_01
