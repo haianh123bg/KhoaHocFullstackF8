@@ -1,0 +1,27 @@
+Cấu trúc trang HTML, cấu trúc thẻ HTML 
+Cập nhật tháng 6 năm 2023
+
+#Cấu trúc của trang HTML
+#CẤU TẠO CỦA THẺ HTML
+#LÀM SAO ĐỂ NHỚ CÁC THẺ HTML?
+#Cấu trúc của trang HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>TITLE</title>
+  </head>
+  <body></body>
+</html>
+#CẤU TẠO CỦA THẺ HTML
+Cấu tạo thẻ đủ:
+
+<tenthe thuoctinh1="trị thuộc tính 1" ...>Nội dung</tenthe>
+Cấu tạo thẻ rỗng:
+
+<tenthe thuoctinh1="trị thuộc tính 1" ... />
+#LÀM SAO ĐỂ NHỚ CÁC THẺ HTML?
+Chỉ cần nhớ các thẻ HTML hay dùng (Khoảng 30 thẻ)
+Nhớ theo chức năng của thẻ (Các thẻ là từ viết tắt Tiếng Anh)
+Làm nhiều tạo thành thói quen
+Kết hợp với việc tìm kiếm (Google)

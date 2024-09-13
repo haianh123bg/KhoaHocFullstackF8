@@ -1,0 +1,17 @@
+Giới thiệu về ngôn ngữ HTML 
+Cập nhật tháng 6 năm 2023
+
+#Ngôn ngữ đánh dấu HTML
+#Nguyên tắc khi viết HTML
+#Ngôn ngữ đánh dấu HTML
+HTML là ngôn ngữ đánh dấu siêu văn bản để hiển thị nội dung trang web (Trình duyệt sẽ biên dịch HTML để hiển thị nội dung trang web cho người dùng).
+HTML được cấu tạo bởi các thẻ (tag).
+HTML không phải là ngôn ngữ lập trình.
+Ví dụ: <p>Đây là đoạn văn bản</p> .
+#Nguyên tắc khi viết HTML
+Mở và đóng thẻ HTML đúng theo thứ tự.
+Các thẻ HTML có thể lồng nhau (Nhưng phải tuân thủ quy định về đóng mở).
+Thẻ Inline có thể nằm trong thẻ Block nhưng sẽ không chuẩn W3C.
+Trang web kiểm tra W3C:
+https://www.freeformatter.com
+https://validator.w3.org
